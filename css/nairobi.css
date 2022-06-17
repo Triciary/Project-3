@@ -1,0 +1,66 @@
+body {
+    background-image: url(greengrass.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 100%;
+    padding-top: 9px;
+}
+#para {
+    text-align: center;
+    text-shadow: 4px 4px 7px black
+
+    
+}
+form {
+    padding: 2ch;
+    margin-left: 57ch;
+    margin-right: 57ch;
+    background-color: rgba(181, 255, 163, 0.2);
+    margin-top: 15px;
+    box-shadow: 5px 6px 25px;
+    }
+
+#submit {
+    background-color:rgb(255, 118, 5);
+    padding: 10px;
+    width: 24ch;
+    font-size: x-small;
+    border: none;
+}
+#email {
+    width: 50ch;
+    padding: 7px;
+}
+#password {
+    width: 50ch;
+    padding: 7px;
+}
+form div {
+    width: 100%;
+}
+#space {
+    word-spacing: 150px;
+    text-align: center;
+}
+#Login {
+    color: white;
+    font-family: Bahnschrift Light;
+}
+span {
+    margin-left: 130px;
+    font-family: Bahnschrift Light;
+}
+a {
+    text-decoration: none;
+}
+#center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2 {
+    text-shadow: 2px 1px 3px black;
+}
+#social {
+    margin-left: 620px;
+}
