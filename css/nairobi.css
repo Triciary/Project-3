@@ -4,6 +4,8 @@ body {
     background-size: cover;
     background-position: 100%;
     padding-top: 9px;
+    height: 100%;
+    width: 100%;
 }
 #para {
     text-align: center;
